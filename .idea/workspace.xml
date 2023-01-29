@@ -34,9 +34,22 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ContravariantApp">
-    <configuration name="ArrayHelperApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mypackage.generic.application.ArrayHelperApp" />
+  <component name="RunManager" selected="Application.ComparatorApp">
+    <configuration name="ComparableApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mypackage.generic.application.ComparableApp" />
+      <module name="belajar-java-generic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mypackage.generic.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComparatorApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mypackage.generic.application.ComparatorApp" />
       <module name="belajar-java-generic" />
       <extension name="coverage">
         <pattern>
@@ -61,8 +74,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenericClassApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mypackage.generic.application.GenericClassApp" />
+    <configuration name="TypeErasureApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mypackage.generic.application.TypeErasureApp" />
       <module name="belajar-java-generic" />
       <extension name="coverage">
         <pattern>
@@ -74,8 +87,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PairApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mypackage.generic.application.PairApp" />
+    <configuration name="WildcardApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mypackage.generic.application.WildcardApp" />
       <module name="belajar-java-generic" />
       <extension name="coverage">
         <pattern>
@@ -89,10 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ComparatorApp" />
+        <item itemvalue="Application.ComparableApp" />
+        <item itemvalue="Application.TypeErasureApp" />
+        <item itemvalue="Application.WildcardApp" />
         <item itemvalue="Application.ContravariantApp" />
-        <item itemvalue="Application.ArrayHelperApp" />
-        <item itemvalue="Application.PairApp" />
-        <item itemvalue="Application.GenericClassApp" />
       </list>
     </recent_temporary>
   </component>
